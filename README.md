@@ -3,10 +3,13 @@ Trabalho visa realizar o Teste Caixa Branca e Caixa Preta no projeto https://git
 
 Testes de Caixa Branca 
 
+
 Conhecimento Interno do Código:
+
 
 Testes unitários focados no UserService
 Verificação da lógica de validação de e-mail único
+
 
 Cobertura Verificada:
 
@@ -15,13 +18,16 @@ Tratamento de exceções customizadas
 
 Testes de Caixa Preta
 
+
 Testes via Swagger UI:
+
 
 Validação dos endpoints REST
 Verificação dos códigos de status HTTP
 Análise dos contratos de resposta
 
 Casos de Teste Executados:
+
 
 Cenário	Entrada	Resultado Esperado
 
