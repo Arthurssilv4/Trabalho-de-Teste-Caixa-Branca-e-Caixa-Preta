@@ -34,7 +34,7 @@ Cenário	Entrada	Resultado Esperado
 
 E-mail novo	novo@email.com	HTTP 201 (Created)
 
-E-mail duplicado	existente@email.com	HTTP 403 (Conflit)
+E-mail duplicado	existente@email.com	HTTP 403 (Conflict)
 
 Formato inválido	email_invalido	HTTP 401 (Bad Request)
 
