@@ -14,6 +14,7 @@ Verificação da lógica de validação de e-mail único
 Cobertura Verificada:
 
 Fluxos alternativos (e-mail já existente)
+
 Tratamento de exceções customizadas
 
 --------------------------------------------------
