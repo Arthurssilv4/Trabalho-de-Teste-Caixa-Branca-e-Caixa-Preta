@@ -1,5 +1,5 @@
 # Trabalho-de-Teste-Caixa-Branca-e-Caixa-Preta
-Trabalho visa realizar o Teste Caixa Branca e Caixa Preta no projeto https://github.com/cleberleao/oficina-spring-boot, assim como documentar as ações feitas durante os testes nesse repositório.
+Trabalho visa realizar o Teste Caixa Branca e Caixa Preta no projeto https://github.com/cleberleao/oficina-spring-boot, assim como documentar os testes nesse repositório.
 
 O primeiro passo que eu tive que dar foi reconhecer o erros que me impediam de rodar o programa no IntelliJ, onde foram resolvidos com o download de dependencias e fazendo o downgrade da versão do JDK para a 20.0.2.
 
