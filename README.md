@@ -48,6 +48,7 @@ Retorno de aprovação de usuario no Swagger:
 ![Retorno de aprovação](https://github.com/user-attachments/assets/4d4f49a3-45f3-4c5e-86e3-9e8c4ab6621b)
 
 Conclusão
+
 O projeto demonstra uma boa aplicação dos princípios de teste, com:
 
 Caixa Branca com Foco na qualidade interna do código e lógica de negócio.
