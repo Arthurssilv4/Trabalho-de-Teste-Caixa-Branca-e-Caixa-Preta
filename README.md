@@ -47,6 +47,6 @@ Retorno de aprovação de usuario no Swagger:
 Conclusão
 O projeto demonstra uma boa aplicação dos princípios de teste, com:
 
-Caixa Branca: Foco na qualidade interna do código e lógica de negócio.
+Caixa Branca com Foco na qualidade interna do código e lógica de negócio.
 
-Caixa Preta: Garantia do comportamento esperado da API.
+Caixa Preta com Garantia do comportamento esperado da API.
