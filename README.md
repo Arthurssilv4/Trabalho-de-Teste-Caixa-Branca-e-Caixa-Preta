@@ -2,16 +2,21 @@
 Trabalho visa realizar o Teste Caixa Branca e Caixa Preta no projeto https://github.com/cleberleao/oficina-spring-boot, assim como documentar os testes nesse repositório.
 
 Testes de Caixa Branca 
+
 Conhecimento Interno do Código:
+
 Testes unitários focados no UserService
 Verificação da lógica de validação de e-mail único
 
 Cobertura Verificada:
+
 Fluxos alternativos (e-mail já existente)
 Tratamento de exceções customizadas
 
 Testes de Caixa Preta
+
 Testes via Swagger UI:
+
 Validação dos endpoints REST
 Verificação dos códigos de status HTTP
 Análise dos contratos de resposta
@@ -19,8 +24,11 @@ Análise dos contratos de resposta
 Casos de Teste Executados:
 
 Cenário	Entrada	Resultado Esperado
+
 E-mail novo	novo@email.com	HTTP 201 (Created)
+
 E-mail duplicado	existente@email.com	HTTP 403 (Conflit)
+
 Formato inválido	email_invalido	HTTP 401 (Bad Request)
 
 Criação de usuario com token de autentificação no Swagger:
