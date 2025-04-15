@@ -25,7 +25,9 @@ Testes via Swagger UI:
 
 
 Validação dos endpoints REST
+
 Verificação dos códigos de status HTTP
+
 Análise dos contratos de resposta
 
 Casos de Teste Executados:
