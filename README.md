@@ -16,6 +16,7 @@ Cobertura Verificada:
 Fluxos alternativos (e-mail já existente)
 Tratamento de exceções customizadas
 
+--------------------------------------------------
 Testes de Caixa Preta
 
 
